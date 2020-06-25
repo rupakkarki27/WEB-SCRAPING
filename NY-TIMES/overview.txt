@@ -1,0 +1,17 @@
+This file contains some of the tags and structures of this web scraping project
+
+Structure:
+	Title, Date Published, Author, Category, Lead_Paragraph, url
+	and save as csv file from a pandas dataframe
+
+
+Tags: 
+	Title: (//h4[@class='css-2fgx4k']) / css: class:2fgx4k
+	Date Published: (//time[@class='css-17ubb9w'])
+	Author: (//p[@class="css-15w69y9"])
+	Category: (//p[@class="css-myxawk"])
+	Lead Paragraph: (//p[@class="css-16nhkrn"])
+	URL: css-selector: li.css-1l4w6pd a
+	
+Clicking Show More:
+	Show more (tag): (//button[contains(.,"Show More")])
