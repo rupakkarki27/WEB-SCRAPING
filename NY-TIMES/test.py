@@ -1,17 +1,4 @@
-from bs4 import BeautifulSoup
-from urllib.request import urlopen
-
-html = urlopen('https://www.nytimes.com/search?dropmab=false&query=Machine%20Learning&sort=newest')
-
-bs = BeautifulSoup(html, 'html.parser')
-
-titles = bs.find_all('div', {'class':'1i8vfl5'})
-for tag in titles:
-	for element in tag.find_all('h4'):
-		data = element.text
-		print(data)
-
- # Titles
+# Titles
 from selenium import webdriver
 
 driver = webdriver.Firefox()
@@ -33,16 +20,6 @@ times = driver.find_elements_by_xpath('(//time[@class="css-17ubb9w"])')
 for item in times:
 	print(item.text)
 
-# Author
-from selenium import webdriver
-
-driver = webdriver.Firefox()
-driver.get('https://www.nytimes.com/search?dropmab=false&query=Machine%20Learning&sort=newest')
-
-authors = driver.find_elements_by_xpath('(//p[@class="css-15w69y9"])')
-
-for item in authors:
-	print(item.text)
 
 # Category
 from selenium import webdriver
@@ -82,7 +59,38 @@ import time
 
 driver = webdriver.Firefox()
 driver.get('https://www.nytimes.com/search?dropmab=false&query=Machine%20Learning&sort=newest')
+
 # trying to click 5 times
 for i in range(5):
 	time.sleep(3)
 	driver.find_element_by_xpath('(//button[contains(.,"Show More")])').click()
+
+
+# Author
+from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
+import time
+authors = []
+authors_list = []
+driver = webdriver.Firefox()
+driver.get('https://www.nytimes.com/search?dropmab=false&query=Machine%20Learning&sort=newest')
+
+for i in range(6):
+	time.sleep(3)
+	driver.find_element_by_xpath('(//button[contains(.,"Show More")])').click()
+
+result_cards = driver.find_elements_by_css_selector('li.css-1l4w6pd')
+
+for item in result_cards:
+    try:
+        author = item.find_elements_by_xpath('(//p[@class="css-15w69y9"])')
+        authors.append(author)
+    except NoSuchElementException:
+        print("No author found for this")
+        authors.append(-1)
+
+auth = authors[0]
+print(len(auth))
+
+for item in auth:
+	print(item.text)

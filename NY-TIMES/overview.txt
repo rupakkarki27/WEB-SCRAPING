@@ -15,3 +15,21 @@ Tags:
 	
 Clicking Show More:
 	Show more (tag): (//button[contains(.,"Show More")])
+
+Scraper Overview:
+	- Open NY Times website with search result page of "Machine Learning"
+	- Click Show more 'n' times to load n*10 more results with sleep timing
+	- Start to scrape above attributes and store them
+	- Save as dict and return as pandas dataframe 
+	
+
+
+for item in result_cards:
+	try:
+		author_elem_list.append(item.find_elements_by_xpath('(.//p[@class="css-15w69y9"])'))
+	except NoSuchElementException:
+		print("No author found for this")
+		author_elem_list.append(-1)
+
+for elem in author_elem_list:
+	authors.append(elem.text)

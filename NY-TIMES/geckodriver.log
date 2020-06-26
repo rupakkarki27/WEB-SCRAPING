@@ -1,0 +1,414 @@
+
+(firefox:79048): Gtk-WARNING **: 15:54:27.539: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 15:54:27.623: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:79124): Gtk-WARNING **: 15:54:33.112: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 15:54:33.141: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:79143): Gtk-WARNING **: 15:54:33.398: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 15:54:33.443: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:79143): Gtk-WARNING **: 15:54:34.996: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:79124): Gtk-WARNING **: 15:54:35.000: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:79048): GLib-GIO-WARNING **: 15:54:35.543: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:79215): Gtk-WARNING **: 15:54:37.022: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 15:54:37.052: Failed to load module "appmenu-gtk-module"
+1593079777489	Marionette	INFO	Listening on port 33929
+1593079777557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript error: https://et.nytimes.com/?subject=page&url=https%3A%2F%2Fwww.nytimes.com%2Fsearch%3Fdropmab%3Dfalse%26query%3DMachine%2520Learning%26sort%3Dnewest&assetUrl=https%3A%2F%2Fwww.nytimes.com%2Fsearch&referrer=&clientTimeStamp=1593079805741&totalTime=0&evtUUID=febf16b4-a663-454e-bffa-ddd8af5e483c&gtm=GTM-P528B3-381-Production&page_view_id=PZnnS2XTBD7sgKWz6FwXrrB5&performance=%7B%22appRenderTime%22%3A406%2C%22domInteractive%22%3A4128%2C%22domContentLoaded%22%3A23231%2C%22requestStart%22%3A1398%2C%22responseStart%22%3A2738%7D&presentation=%7B%22pageType%22%3A%22Search%22%2C%22program%22%3A%7B%22breakpoint%22%3A%7B%22initial%22%3A%22desktop%22%2C%22deviceType%22%3A%22desktop%22%7D%7D%7D&et2_pageview_id=PZnnS2XTBD7sgKWz6FwXrrB5&sourceApp=nyt-vi&assetData=%7B%22url%22%3A%22https%3A%2F%2Fwww.nytimes.com%2Fsearch%22%2C%22wordCount%22%3A0%2C%22derivedDesk%22%3A%22%22%2C%22jkiddSrc%22%3A%22fe%22%7D&skipFilter=%5B%22content%22%2C%22jkiddata%22%5D&callback=window.EventTracker.cb0&pageMetaData=%7B%22PT%22%3A%22Search%22%2C%22CG%22%3A%22%22%2C%22SCG%22%3A%22%22%2C%22byl%22%3A%22%22%2C%22tom%22%3A%22%22%2C%22hdl%22%3A%22%22%2C%22ptime%22%3A%22%22%2C%22cre%22%3A%22%22%2C%22articleid%22%3A%22%22%2C%22channels%22%3A%22%22%2C%22CN%22%3A%22%22%2C%22CT%22%3A%22%22%2C%22backfilled%22%3A%22PT%22%7D&additionalClientData=%7B%22ul%22%3A%22en-US%22%2C%22js%22%3A%22Yes%22%2C%22jv%22%3A%221.7%22%2C%22fi%22%3A%22No%22%2C%22tz%22%3A5.75%2C%22bh%22%3A15%2C%22cd%22%3A24%2C%22sr%22%3A%221366x768%22%2C%22bs%22%3A%221366x610%22%2C%22jo%22%3A%22No%22%2C%22or%22%3A%22land%22%7D, line 1: TypeError: window.EventTracker.cb0 is not a function
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+1593079899177	Marionette	INFO	Stopped listening on port 33929
+
+(firefox:79534): Gtk-WARNING **: 16:01:03.249: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:01:03.297: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:79616): Gtk-WARNING **: 16:01:04.530: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:01:04.559: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:79635): Gtk-WARNING **: 16:01:04.790: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:01:04.835: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:79616): Gtk-WARNING **: 16:01:05.106: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:79534): GLib-GIO-WARNING **: 16:01:05.282: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:79635): Gtk-WARNING **: 16:01:05.511: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:79703): Gtk-WARNING **: 16:01:06.349: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:01:06.390: Failed to load module "appmenu-gtk-module"
+1593080166640	Marionette	INFO	Listening on port 37135
+1593080166748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript error: https://et.nytimes.com/?assetUrl=undefined&url=https%3A%2F%2Fwww.nytimes.com%2Fsearch%3Fdropmab%3Dfalse%26query%3DMachine%2520Learning%26sort%3Dnewest&subject=module-interactions&moduleData=%7B%22module%22%3A%22first-scroll%22%2C%22region%22%3A%22first-scroll%22%7D&parentDatumId=498105788dd82676&et2_pageview_id=59KYfAxoruDrzpKK5hxkI4RU&sourceApp=nyt-vi&gtm=GTM-P528B3-381-Production&assetData=%7B%22url%22%3A%22https%3A%2F%2Fwww.nytimes.com%2Fsearch%22%2C%22wordCount%22%3A0%2C%22derivedDesk%22%3A%22%22%2C%22jkiddSrc%22%3A%22fe%22%7D&skipFilter=%5B%22content%22%2C%22jkiddata%22%5D&instant=1&callback=window.EventTracker.cb1, line 1: TypeError: window.EventTracker.cb1 is not a function
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593080385370	Marionette	INFO	Stopped listening on port 37135
+
+(firefox:80209): Gtk-WARNING **: 16:12:38.978: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:12:39.009: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:80294): Gtk-WARNING **: 16:12:39.903: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:12:39.932: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:80313): Gtk-WARNING **: 16:12:40.172: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:12:40.216: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:80294): Gtk-WARNING **: 16:12:40.323: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:80209): GLib-GIO-WARNING **: 16:12:40.596: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:80313): Gtk-WARNING **: 16:12:40.743: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:80386): Gtk-WARNING **: 16:12:41.968: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:12:42.003: Failed to load module "appmenu-gtk-module"
+1593080862177	Marionette	INFO	Listening on port 35575
+1593080862232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript error: https://et.nytimes.com/?subject=page&url=https%3A%2F%2Fwww.nytimes.com%2Fsearch%3Fdropmab%3Dfalse%26query%3DMachine%2520Learning%26sort%3Dnewest&assetUrl=https%3A%2F%2Fwww.nytimes.com%2Fsearch&referrer=&clientTimeStamp=1593080895540&totalTime=0&evtUUID=f0cc2df0-1e51-4fe1-bed4-aa05fe1af1d7&gtm=GTM-P528B3-381-Production&page_view_id=CJsivgFVGGEIZ6Hykst41nBJ&performance=%7B%22appRenderTime%22%3A393%7D&presentation=%7B%22pageType%22%3A%22Search%22%2C%22program%22%3A%7B%22breakpoint%22%3A%7B%22initial%22%3A%22desktop%22%2C%22deviceType%22%3A%22desktop%22%7D%7D%7D&et2_pageview_id=CJsivgFVGGEIZ6Hykst41nBJ&sourceApp=nyt-vi&assetData=%7B%22url%22%3A%22https%3A%2F%2Fwww.nytimes.com%2Fsearch%22%2C%22wordCount%22%3A0%2C%22derivedDesk%22%3A%22%22%2C%22jkiddSrc%22%3A%22fe%22%7D&skipFilter=%5B%22content%22%2C%22jkiddata%22%5D&callback=window.EventTracker.cb0&pageMetaData=%7B%22PT%22%3A%22Search%22%2C%22CG%22%3A%22%22%2C%22SCG%22%3A%22%22%2C%22byl%22%3A%22%22%2C%22tom%22%3A%22%22%2C%22hdl%22%3A%22%22%2C%22ptime%22%3A%22%22%2C%22cre%22%3A%22%22%2C%22articleid%22%3A%22%22%2C%22channels%22%3A%22%22%2C%22CN%22%3A%22%22%2C%22CT%22%3A%22%22%2C%22backfilled%22%3A%22PT%22%7D&additionalClientData=%7B%22ul%22%3A%22en-US%22%2C%22js%22%3A%22Yes%22%2C%22jv%22%3A%221.7%22%2C%22fi%22%3A%22No%22%2C%22tz%22%3A5.75%2C%22bh%22%3A16%2C%22cd%22%3A24%2C%22sr%22%3A%221366x768%22%2C%22bs%22%3A%221366x610%22%2C%22jo%22%3A%22No%22%2C%22or%22%3A%22land%22%7D, line 1: TypeError: window.EventTracker.cb0 is not a function
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+1593081339187	Marionette	INFO	Stopped listening on port 35575
+
+(firefox:80737): Gtk-WARNING **: 16:20:43.251: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:20:43.274: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:80820): Gtk-WARNING **: 16:20:44.006: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:20:44.030: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:80839): Gtk-WARNING **: 16:20:44.215: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:20:44.250: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:80820): Gtk-WARNING **: 16:20:44.338: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:80737): GLib-GIO-WARNING **: 16:20:44.681: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:80839): Gtk-WARNING **: 16:20:44.698: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:80907): Gtk-WARNING **: 16:20:45.542: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:20:45.566: Failed to load module "appmenu-gtk-module"
+1593081345675	Marionette	INFO	Listening on port 35975
+1593081345717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript error: https://et.nytimes.com/?subject=page&url=https%3A%2F%2Fwww.nytimes.com%2Fsearch%3Fdropmab%3Dfalse%26query%3DMachine%2520Learning%26sort%3Dnewest&assetUrl=https%3A%2F%2Fwww.nytimes.com%2Fsearch&referrer=&clientTimeStamp=1593081381733&totalTime=0&evtUUID=47f31e88-15a8-4652-b788-780e8b83f16f&gtm=GTM-P528B3-381-Production&page_view_id=b-agMjXk26iK-AkONQFXImGW&performance=%7B%22appRenderTime%22%3A316%7D&presentation=%7B%22pageType%22%3A%22Search%22%2C%22program%22%3A%7B%22breakpoint%22%3A%7B%22initial%22%3A%22desktop%22%2C%22deviceType%22%3A%22desktop%22%7D%7D%7D&et2_pageview_id=b-agMjXk26iK-AkONQFXImGW&sourceApp=nyt-vi&assetData=%7B%22url%22%3A%22https%3A%2F%2Fwww.nytimes.com%2Fsearch%22%2C%22wordCount%22%3A0%2C%22derivedDesk%22%3A%22%22%2C%22jkiddSrc%22%3A%22fe%22%7D&skipFilter=%5B%22content%22%2C%22jkiddata%22%5D&callback=window.EventTracker.cb0&pageMetaData=%7B%22PT%22%3A%22Search%22%2C%22CG%22%3A%22%22%2C%22SCG%22%3A%22%22%2C%22byl%22%3A%22%22%2C%22tom%22%3A%22%22%2C%22hdl%22%3A%22%22%2C%22ptime%22%3A%22%22%2C%22cre%22%3A%22%22%2C%22articleid%22%3A%22%22%2C%22channels%22%3A%22%22%2C%22CN%22%3A%22%22%2C%22CT%22%3A%22%22%2C%22backfilled%22%3A%22PT%22%7D&additionalClientData=%7B%22ul%22%3A%22en-US%22%2C%22js%22%3A%22Yes%22%2C%22jv%22%3A%221.7%22%2C%22fi%22%3A%22No%22%2C%22tz%22%3A5.75%2C%22bh%22%3A16%2C%22cd%22%3A24%2C%22sr%22%3A%221366x768%22%2C%22bs%22%3A%221366x610%22%2C%22jo%22%3A%22No%22%2C%22or%22%3A%22land%22%7D, line 1: TypeError: window.EventTracker.cb0 is not a function
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+1593081400867	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+1593081620039	Marionette	INFO	Stopped listening on port 35975
+
+(firefox:81107): Gtk-WARNING **: 16:25:24.294: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:25:24.318: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:81191): Gtk-WARNING **: 16:25:25.058: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:25:25.081: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:81210): Gtk-WARNING **: 16:25:25.276: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:25:25.313: Failed to load module "appmenu-gtk-module"
+
+(firefox:81107): GLib-GIO-WARNING **: 16:25:25.607: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:81210): Gtk-WARNING **: 16:25:25.727: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:81191): Gtk-WARNING **: 16:25:25.731: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:81277): Gtk-WARNING **: 16:25:26.548: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 16:25:26.572: Failed to load module "appmenu-gtk-module"
+1593081626691	Marionette	INFO	Listening on port 37367
+1593081626777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript error: https://et.nytimes.com/?subject=page&url=https%3A%2F%2Fwww.nytimes.com%2Fsearch%3Fdropmab%3Dfalse%26query%3DMachine%2520Learning%26sort%3Dnewest&assetUrl=https%3A%2F%2Fwww.nytimes.com%2Fsearch&referrer=&clientTimeStamp=1593081668391&totalTime=0&evtUUID=c7d3a5eb-742d-46b9-89e2-8b241f416dae&gtm=GTM-P528B3-381-Production&page_view_id=jEH5iXHIJeCXlNjM9_R_x9IV&performance=%7B%22appRenderTime%22%3A317%7D&presentation=%7B%22pageType%22%3A%22Search%22%2C%22program%22%3A%7B%22breakpoint%22%3A%7B%22initial%22%3A%22desktop%22%2C%22deviceType%22%3A%22desktop%22%7D%7D%7D&et2_pageview_id=jEH5iXHIJeCXlNjM9_R_x9IV&sourceApp=nyt-vi&assetData=%7B%22url%22%3A%22https%3A%2F%2Fwww.nytimes.com%2Fsearch%22%2C%22wordCount%22%3A0%2C%22derivedDesk%22%3A%22%22%2C%22jkiddSrc%22%3A%22fe%22%7D&skipFilter=%5B%22content%22%2C%22jkiddata%22%5D&callback=window.EventTracker.cb0&pageMetaData=%7B%22PT%22%3A%22Search%22%2C%22CG%22%3A%22%22%2C%22SCG%22%3A%22%22%2C%22byl%22%3A%22%22%2C%22tom%22%3A%22%22%2C%22hdl%22%3A%22%22%2C%22ptime%22%3A%22%22%2C%22cre%22%3A%22%22%2C%22articleid%22%3A%22%22%2C%22channels%22%3A%22%22%2C%22CN%22%3A%22%22%2C%22CT%22%3A%22%22%2C%22backfilled%22%3A%22PT%22%7D&additionalClientData=%7B%22ul%22%3A%22en-US%22%2C%22js%22%3A%22Yes%22%2C%22jv%22%3A%221.7%22%2C%22fi%22%3A%22No%22%2C%22tz%22%3A5.75%2C%22bh%22%3A16%2C%22cd%22%3A24%2C%22sr%22%3A%221366x768%22%2C%22bs%22%3A%221366x610%22%2C%22jo%22%3A%22No%22%2C%22or%22%3A%22land%22%7D, line 1: TypeError: window.EventTracker.cb0 is not a function
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593082224527	Marionette	INFO	Stopped listening on port 37367
+
+(firefox:117063): Gtk-WARNING **: 17:18:03.237: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:18:03.312: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:117178): Gtk-WARNING **: 17:18:09.965: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:18:09.988: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:117201): Gtk-WARNING **: 17:18:10.292: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:18:10.317: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:117178): Gtk-WARNING **: 17:18:10.445: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:117201): Gtk-WARNING **: 17:18:10.579: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:117063): GLib-GIO-WARNING **: 17:18:14.453: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:117265): Gtk-WARNING **: 17:18:15.983: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:18:16.015: Failed to load module "appmenu-gtk-module"
+1593171197321	Marionette	INFO	Listening on port 40483
+1593171197375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+1593171537973	Marionette	INFO	Stopped listening on port 40483
+
+(firefox:117551): Gtk-WARNING **: 17:24:02.462: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:24:02.493: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:117645): Gtk-WARNING **: 17:24:03.224: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:24:03.256: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:117664): Gtk-WARNING **: 17:24:03.458: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:24:03.494: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:117645): Gtk-WARNING **: 17:24:03.578: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:117664): Gtk-WARNING **: 17:24:04.397: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:117551): GLib-GIO-WARNING **: 17:24:04.602: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:117727): Gtk-WARNING **: 17:24:05.258: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:24:05.289: Failed to load module "appmenu-gtk-module"
+1593171545625	Marionette	INFO	Listening on port 42423
+1593171545715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript error: https://et.nytimes.com/?subject=page&url=https%3A%2F%2Fwww.nytimes.com%2Fsearch%3Fdropmab%3Dfalse%26query%3DMachine%2520Learning%26sort%3Dnewest&assetUrl=https%3A%2F%2Fwww.nytimes.com%2Fsearch&referrer=&clientTimeStamp=1593171612314&totalTime=0&evtUUID=690930d7-c185-4ac6-8043-bfca1114d1e7&gtm=GTM-P528B3-381-Production&page_view_id=IgGiG-tiahv4ZgHsKE_BFvxB&performance=%7B%22appRenderTime%22%3A314%7D&presentation=%7B%22pageType%22%3A%22Search%22%2C%22program%22%3A%7B%22breakpoint%22%3A%7B%22initial%22%3A%22desktop%22%2C%22deviceType%22%3A%22desktop%22%7D%7D%7D&et2_pageview_id=IgGiG-tiahv4ZgHsKE_BFvxB&sourceApp=nyt-vi&assetData=%7B%22url%22%3A%22https%3A%2F%2Fwww.nytimes.com%2Fsearch%22%2C%22wordCount%22%3A0%2C%22derivedDesk%22%3A%22%22%2C%22jkiddSrc%22%3A%22fe%22%7D&skipFilter=%5B%22content%22%2C%22jkiddata%22%5D&callback=window.EventTracker.cb0&pageMetaData=%7B%22PT%22%3A%22Search%22%2C%22CG%22%3A%22%22%2C%22SCG%22%3A%22%22%2C%22byl%22%3A%22%22%2C%22tom%22%3A%22%22%2C%22hdl%22%3A%22%22%2C%22ptime%22%3A%22%22%2C%22cre%22%3A%22%22%2C%22articleid%22%3A%22%22%2C%22channels%22%3A%22%22%2C%22CN%22%3A%22%22%2C%22CT%22%3A%22%22%2C%22backfilled%22%3A%22PT%22%7D&additionalClientData=%7B%22ul%22%3A%22en-US%22%2C%22js%22%3A%22Yes%22%2C%22jv%22%3A%221.7%22%2C%22fi%22%3A%22No%22%2C%22tz%22%3A5.75%2C%22bh%22%3A17%2C%22cd%22%3A24%2C%22sr%22%3A%221366x768%22%2C%22bs%22%3A%221366x610%22%2C%22jo%22%3A%22No%22%2C%22or%22%3A%22land%22%7D, line 1: TypeError: window.EventTracker.cb0 is not a function
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+
+(firefox:117880): Gtk-WARNING **: 17:27:07.544: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:27:07.568: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:117966): Gtk-WARNING **: 17:27:08.453: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:27:08.478: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:117985): Gtk-WARNING **: 17:27:08.842: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:27:08.879: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:117966): Gtk-WARNING **: 17:27:09.059: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:117985): Gtk-WARNING **: 17:27:09.264: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:117880): GLib-GIO-WARNING **: 17:27:09.408: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:118056): Gtk-WARNING **: 17:27:10.108: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:27:10.133: Failed to load module "appmenu-gtk-module"
+1593171732440	Marionette	INFO	Listening on port 34877
+1593171732503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593171736732	Marionette	INFO	Stopped listening on port 42423
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript error: https://et.nytimes.com/?subject=page&url=https%3A%2F%2Fwww.nytimes.com%2Fsearch%3Fdropmab%3Dfalse%26query%3DMachine%2520Learning%26sort%3Dnewest&assetUrl=https%3A%2F%2Fwww.nytimes.com%2Fsearch&referrer=&clientTimeStamp=1593171783475&totalTime=0&evtUUID=dadbced0-d8b0-492a-b9dd-4ccba56330d6&gtm=GTM-P528B3-381-Production&page_view_id=qnddY4tQuLfrxTHKWoVPXeLz&performance=%7B%22appRenderTime%22%3A346%7D&presentation=%7B%22pageType%22%3A%22Search%22%2C%22program%22%3A%7B%22breakpoint%22%3A%7B%22initial%22%3A%22desktop%22%2C%22deviceType%22%3A%22desktop%22%7D%7D%7D&et2_pageview_id=qnddY4tQuLfrxTHKWoVPXeLz&sourceApp=nyt-vi&assetData=%7B%22url%22%3A%22https%3A%2F%2Fwww.nytimes.com%2Fsearch%22%2C%22wordCount%22%3A0%2C%22derivedDesk%22%3A%22%22%2C%22jkiddSrc%22%3A%22fe%22%7D&skipFilter=%5B%22content%22%2C%22jkiddata%22%5D&callback=window.EventTracker.cb0&pageMetaData=%7B%22PT%22%3A%22Search%22%2C%22CG%22%3A%22%22%2C%22SCG%22%3A%22%22%2C%22byl%22%3A%22%22%2C%22tom%22%3A%22%22%2C%22hdl%22%3A%22%22%2C%22ptime%22%3A%22%22%2C%22cre%22%3A%22%22%2C%22articleid%22%3A%22%22%2C%22channels%22%3A%22%22%2C%22CN%22%3A%22%22%2C%22CT%22%3A%22%22%2C%22backfilled%22%3A%22PT%22%7D&additionalClientData=%7B%22ul%22%3A%22en-US%22%2C%22js%22%3A%22Yes%22%2C%22jv%22%3A%221.7%22%2C%22fi%22%3A%22No%22%2C%22tz%22%3A5.75%2C%22bh%22%3A17%2C%22cd%22%3A24%2C%22sr%22%3A%221366x768%22%2C%22bs%22%3A%221366x610%22%2C%22jo%22%3A%22No%22%2C%22or%22%3A%22land%22%7D, line 1: TypeError: window.EventTracker.cb0 is not a function
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+1593171905036	Marionette	INFO	Stopped listening on port 34877
+
+(firefox:118323): Gtk-WARNING **: 17:30:48.999: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:30:49.023: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:118399): Gtk-WARNING **: 17:30:51.127: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:30:51.150: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:118418): Gtk-WARNING **: 17:30:51.465: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:30:51.502: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:118399): Gtk-WARNING **: 17:30:51.796: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:118418): Gtk-WARNING **: 17:30:51.840: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:118323): GLib-GIO-WARNING **: 17:30:51.961: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:118484): Gtk-WARNING **: 17:30:52.842: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:30:52.865: Failed to load module "appmenu-gtk-module"
+1593171952979	Marionette	INFO	Listening on port 43363
+1593171953037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript error: https://et.nytimes.com/?subject=page&url=https%3A%2F%2Fwww.nytimes.com%2Fsearch%3Fdropmab%3Dfalse%26query%3DMachine%2520Learning%26sort%3Dnewest&assetUrl=https%3A%2F%2Fwww.nytimes.com%2Fsearch&referrer=&clientTimeStamp=1593172051992&totalTime=0&evtUUID=61789007-648a-481c-9692-7428da96fbd2&gtm=GTM-P528B3-381-Production&page_view_id=r3xe1OSXnv4LPsVg825c-VKL&performance=%7B%22appRenderTime%22%3A483%2C%22domInteractive%22%3A12604%2C%22domContentLoaded%22%3A95714%2C%22requestStart%22%3A5010%2C%22responseStart%22%3A6207%2C%22pageLoadTime%22%3A98783%7D&presentation=%7B%22pageType%22%3A%22Search%22%2C%22program%22%3A%7B%22breakpoint%22%3A%7B%22initial%22%3A%22desktop%22%2C%22deviceType%22%3A%22desktop%22%7D%7D%7D&et2_pageview_id=r3xe1OSXnv4LPsVg825c-VKL&sourceApp=nyt-vi&assetData=%7B%22url%22%3A%22https%3A%2F%2Fwww.nytimes.com%2Fsearch%22%2C%22wordCount%22%3A0%2C%22derivedDesk%22%3A%22%22%2C%22jkiddSrc%22%3A%22fe%22%7D&skipFilter=%5B%22content%22%2C%22jkiddata%22%5D&callback=window.EventTracker.cb0&pageMetaData=%7B%22PT%22%3A%22Search%22%2C%22CG%22%3A%22%22%2C%22SCG%22%3A%22%22%2C%22byl%22%3A%22%22%2C%22tom%22%3A%22%22%2C%22hdl%22%3A%22%22%2C%22ptime%22%3A%22%22%2C%22cre%22%3A%22%22%2C%22articleid%22%3A%22%22%2C%22channels%22%3A%22%22%2C%22CN%22%3A%22%22%2C%22CT%22%3A%22%22%2C%22backfilled%22%3A%22PT%22%7D&additionalClientData=%7B%22ul%22%3A%22en-US%22%2C%22js%22%3A%22Yes%22%2C%22jv%22%3A%221.7%22%2C%22fi%22%3A%22No%22%2C%22tz%22%3A5.75%2C%22bh%22%3A17%2C%22cd%22%3A24%2C%22sr%22%3A%221366x768%22%2C%22bs%22%3A%221366x610%22%2C%22jo%22%3A%22No%22%2C%22or%22%3A%22land%22%7D, line 1: TypeError: window.EventTracker.cb0 is not a function
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+1593172163110	Marionette	INFO	Stopped listening on port 43363
+
+(firefox:118676): Gtk-WARNING **: 17:34:30.767: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:34:30.803: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:118760): Gtk-WARNING **: 17:34:31.697: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:34:31.720: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:118779): Gtk-WARNING **: 17:34:31.903: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:34:31.939: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:118760): Gtk-WARNING **: 17:34:32.019: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:118676): GLib-GIO-WARNING **: 17:34:32.344: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:118779): Gtk-WARNING **: 17:34:32.358: Theme parsing error: gtk.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:118846): Gtk-WARNING **: 17:34:33.323: Theme parsing error: gtk-dark.css:5826:47: Using one color stop with linear-gradient() is deprecated.
+Gtk-Message: 17:34:33.357: Failed to load module "appmenu-gtk-module"
+1593172173491	Marionette	INFO	Listening on port 46873
+1593172173503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript error: https://et.nytimes.com/?subject=page&url=https%3A%2F%2Fwww.nytimes.com%2Fsearch%3Fdropmab%3Dfalse%26query%3DMachine%2520Learning%26sort%3Dnewest&assetUrl=https%3A%2F%2Fwww.nytimes.com%2Fsearch&referrer=&clientTimeStamp=1593172227347&totalTime=0&evtUUID=19aebc65-48c4-4d55-9f84-c9b55268daa6&gtm=GTM-P528B3-381-Production&page_view_id=SJ7-ujeQ3JLfgeRqlt5OjhFq&performance=%7B%22appRenderTime%22%3A351%7D&presentation=%7B%22pageType%22%3A%22Search%22%2C%22program%22%3A%7B%22breakpoint%22%3A%7B%22initial%22%3A%22desktop%22%2C%22deviceType%22%3A%22desktop%22%7D%7D%7D&et2_pageview_id=SJ7-ujeQ3JLfgeRqlt5OjhFq&sourceApp=nyt-vi&assetData=%7B%22url%22%3A%22https%3A%2F%2Fwww.nytimes.com%2Fsearch%22%2C%22wordCount%22%3A0%2C%22derivedDesk%22%3A%22%22%2C%22jkiddSrc%22%3A%22fe%22%7D&skipFilter=%5B%22content%22%2C%22jkiddata%22%5D&callback=window.EventTracker.cb0&pageMetaData=%7B%22PT%22%3A%22Search%22%2C%22CG%22%3A%22%22%2C%22SCG%22%3A%22%22%2C%22byl%22%3A%22%22%2C%22tom%22%3A%22%22%2C%22hdl%22%3A%22%22%2C%22ptime%22%3A%22%22%2C%22cre%22%3A%22%22%2C%22articleid%22%3A%22%22%2C%22channels%22%3A%22%22%2C%22CN%22%3A%22%22%2C%22CT%22%3A%22%22%2C%22backfilled%22%3A%22PT%22%7D&additionalClientData=%7B%22ul%22%3A%22en-US%22%2C%22js%22%3A%22Yes%22%2C%22jv%22%3A%221.7%22%2C%22fi%22%3A%22No%22%2C%22tz%22%3A5.75%2C%22bh%22%3A17%2C%22cd%22%3A24%2C%22sr%22%3A%221366x768%22%2C%22bs%22%3A%221366x610%22%2C%22jo%22%3A%22No%22%2C%22or%22%3A%22land%22%7D, line 1: TypeError: window.EventTracker.cb0 is not a function
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+1593172396109	Marionette	INFO	Stopped listening on port 46873
