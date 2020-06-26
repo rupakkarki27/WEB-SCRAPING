@@ -1,4 +1,4 @@
 # WEB_SCRAPING
 ## Web Scraping Projects
 ## Contains:
-- NewYork Times webs scraper (see details in overview.txt)
+- NewYork Times Search Result scraper (see details in overview.txt)
