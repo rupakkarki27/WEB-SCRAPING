@@ -3,7 +3,7 @@ This file contains some of the tags and structures of this web scraping project
 Structure:
 	Title, Date Published, Author, Category, Lead_Paragraph, url
 	and save as csv file from a pandas dataframe
-
+For some weird reasons, I couldn't correctly scrape the author/writer name, will do that on the future version
 
 Tags: 
 	Title: (//h4[@class='css-2fgx4k']) / css: class:2fgx4k
